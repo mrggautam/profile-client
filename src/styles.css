@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+.g-bg-dark-blue {
+    background-color: #0a192f !important;
+}
+  
+a.g-bg-dark-blue:hover, a.g-bg-dark-blue:focus,
+button.g-bg-dark-blue:hover,
+button.g-bg-dark-blue:focus {
+    background-color: #64ffda !important;
+}
+
+.g-bg-teal {
+    background-color: #64ffda !important;
+}
+
+a.g-bg-teal:hover, a.g-bg-teal:focus,
+button.g-bg-teal:hover,
+button.g-bg-teal:focus {
+    background-color: #0a192f !important;
+}
